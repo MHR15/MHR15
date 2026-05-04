@@ -18,6 +18,7 @@ Estudiante de **Sistemas Microinformáticos y Redes (SMR)**, con proyección hac
 | Proyecto | Descripción |
 |---|---|
 | [Homelab: NAS Synology + Tailscale](https://github.com/MHR15/homelab-synology-tailscale) | Servidor NAS casero con acceso remoto seguro mediante Tailscale VPN |
+| [Asistente Local con Ollama y Open WebUI](https://github.com/MHR15/asistente-local-ollama) | Asistente de IA local con Ollama y Open WebUI en Docker, sin depender de la nube |
 
 ---
 
