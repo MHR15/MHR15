@@ -21,4 +21,3 @@ Estudiante de **Sistemas Microinformáticos y Redes (SMR)**, con proyección hac
 
 ---
 
-*Perfil en construcción. Nuevos proyectos en desarrollo.*
